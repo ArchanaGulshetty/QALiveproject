@@ -16,5 +16,7 @@ public class HeadersSection {
 	public static WebElement myaacountlink;
 	@FindBy(linkText = "Register")
 	public static WebElement register;
+	@FindBy(linkText = "Login")
+	public static WebElement login;
 
 }
