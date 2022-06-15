@@ -315,3 +315,28 @@
 2022-06-14 16:30:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1445225850
 2022-06-14 16:30:31 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registring a duplicate account
 2022-06-14 16:30:31 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-06-15 10:41:12 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-06-15 10:41:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-06-15 10:41:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started607526140
+2022-06-15 10:41:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-06-15 10:41:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-06-15 11:02:32 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2022-06-15 11:02:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-06-15 11:02:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started363616706
+2022-06-15 11:02:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2022-06-15 11:02:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2022-06-15 11:06:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2022-06-15 11:06:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-06-15 11:06:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started363616706
+2022-06-15 11:06:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2022-06-15 11:06:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2022-06-15 11:21:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2022-06-15 11:21:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-06-15 11:21:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2055019335
+2022-06-15 11:21:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2022-06-15 11:21:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2022-06-15 11:23:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2022-06-15 11:23:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-06-15 11:23:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2055019335
+2022-06-15 11:24:00 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2022-06-15 11:24:00 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
