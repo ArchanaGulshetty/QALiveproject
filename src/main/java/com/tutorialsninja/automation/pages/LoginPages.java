@@ -28,4 +28,10 @@ public class LoginPages {
 		Elements.TypeText(LoginPages.passwordfiled, password);
 		Elements.click(LoginPages.Loginbutton);
 	}
+
+	public static void doLogin() {
+		Elements.TypeText(emailfiled, Base.reader.getUsername());
+		Elements.TypeText(passwordfiled, Base.reader.getPassword());
+		Elements.click(Loginbutton);
+	}
 }
